@@ -1,0 +1,10 @@
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Release\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Release\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Release\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.csproj.AssemblyReference.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.Form1.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.Properties.Resources.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.csproj.GenerateResource.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Release\KrediFaizHesaplayicisi.pdb

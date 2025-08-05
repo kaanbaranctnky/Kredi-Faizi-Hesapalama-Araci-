@@ -1,0 +1,51 @@
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Form1.resources
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Ahmet\source\repos\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.AssemblyReference.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Form1.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Properties.Resources.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.GenerateResource.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.AssemblyReference.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Form1.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Properties.Resources.resources
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.GenerateResource.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaiziHesaplama-2.İlerleme\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.manifest
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.application
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe.manifest
+C:\Users\Kaan Cetinkaya\Desktop\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.application
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe.manifest
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.application
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\bin\Debug\KrediFaizHesaplayicisi.pdb
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.AssemblyReference.cache
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe.config
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Form1.resources
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.Properties.Resources.resources
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.GenerateResource.cache
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe.manifest
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.application
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.exe
+C:\Users\Kaan Cetinkaya\Desktop\-X-\Kredi Faizi Hesaplama Aracı\KrediFaizHesaplayicisi\obj\Debug\KrediFaizHesaplayicisi.pdb
